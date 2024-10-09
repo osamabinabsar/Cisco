@@ -66,12 +66,47 @@ Security Best Practices: The site features best practices for maintaining securi
 
 
 **Who are the company’s major customers (List at least three)?** : Godaddy, Facebook, Tata
+
 **What awards or recognitions has the company received?** : French Tech Ticket, GCCS 2017, techstars
 
 
-### 
+### Penetration Testing Consulting Company #2
+**Name**: Securewokrs
+**webiste**: secureworks.com
+**What compliance domains does the company provide penetration testing services for? List the domains and give a brief description of the focus of each.**
+PCI DSS, HIPAA, FFIEC (Federal Financial Institutions Examination Council), 
 
 
+**What knowledge resources regarding compliance frameworks are available on the company web site?**
+The site offers white papers, solution briefs, and blogs that help organizations navigate compliance with frameworks like NIST-CSF and NIST SP 800-171. 
+
+**Who are the company’s major customers (List at least three)?**
+Busy Beaver, Superior Credit Union, American Portfolios
+
+
+
+**What awards or recognitions has the company received?**
+2024 Global Competitive Strategy Leadership Award in Extended Detection and Response (XDR), 2024 CRN Security 100 List
+
+### Penetration Testing Consulting Company #2
+**Name**: Breachlock
+**webiste**: breachlock.com
+**What compliance domains does the company provide penetration testing services for? List the domains and give a brief description of the focus of each.**
+PCI DSS, GDPR, HIIPAA, ISO27001, SOC 2
+
+**What knowledge resources regarding compliance frameworks are available on the company web site?**
+breachlock offers resources related to HIPAA NIST SP 800-53, GDPR, regarding their scopees and how to utilize them.
+
+**Who are the company’s major customers (List at least three)?**
+bosch, DocuSign, FOLEY, Genesis, 
+
+**What awards or recognitions has the company received?**
+Reuters, Bloomberg, 
+
+### Reflection
+Do companies in your country need to follow compliance frameworks that are imposed by other countries? If so, what are the consequences for failing to meet the requirements of the frameworks and what are the penalties if there is a data breach?
+
+Yes the companies that are in my scope of research all of them has to follow the local regulations. For example some of these companies operates in the European Union, Middle East, USA. Some of these companies are the primary service provider in some parts of the world like UAE. Therefore they has to hello compliance frameworks imposed by the countries. Failing to do so will cause them hefty fines.
 
 
 
